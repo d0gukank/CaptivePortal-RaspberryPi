@@ -1,4 +1,4 @@
-# RaspberryPi Access Point with Captive-Portal
+# RaspberryPi Access Point with Captive Portal
 
 * Access Point
 * Captive Portal
